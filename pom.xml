@@ -276,7 +276,8 @@
                       <excludes>
                           <exclude>**/RedisTokenStorePrefixTests.java</exclude>
                           <exclude>**/RedisTokenStoreTests.java</exclude>
-                      </excludes>
+                          <exclude>**/RedisTokenStoreCustomTokenTests.java</exclude>
+					  </excludes>
                   </configuration>
               </plugin>
           </plugins>
